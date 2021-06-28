@@ -8,6 +8,8 @@ Section         : 03
 Lecturer's Name : Dr Adila Firdaus
 Project         : 1
 Project Name    : IMELC
+Documentation   : https://cutt.ly/nmuAWjI
+Video Link      : <KIV>
 Group Members   : 
 <table>
   <tr>
